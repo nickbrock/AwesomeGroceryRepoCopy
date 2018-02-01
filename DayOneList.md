@@ -10,3 +10,6 @@
 8. Feta cheese
 9. Almond milk
 10. Salt
+11. Oreos
+12. Bread
+13. Ice cream
